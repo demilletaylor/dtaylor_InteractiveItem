@@ -1,0 +1,60 @@
+h1{
+    font-family: "neue-haas-grotesk-display", sans-serif;
+font-weight: 900;
+font-style: normal;
+color: #990471;
+text-transform: uppercase;
+font-size: 3em;
+}
+h2{
+    font-family: "neue-haas-grotesk-display", sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 2em;
+}
+h3{
+font-family: "neue-haas-grotesk-display", sans-serif;
+font-weight: 600;
+font-style: italic;
+
+}
+body{
+    background-color: #fff9ef;
+    color: #990471;
+    text-align: center;
+font-family: "neue-haas-grotesk-display", sans-serif;
+font-weight: 500;
+font-style: normal;
+}
+#box_3a{
+    background-color: #ccd550;
+    border-radius: 20%;
+    width: 33%;
+
+
+  }
+#box_3b{
+    background-color: #fec5ac;
+    border-radius: 20%;
+    width: 33%;
+}
+#box_3c{
+    background-color: #d5f7ff;
+    border-radius: 20%;
+    width: 33%;
+}
+#box_4a{
+    background-color: #fddc5c;
+    border-radius: 20%;
+    width: 33%;
+}
+
+#box_4b{
+    background-color: #d8c5e5;
+    border-radius: 20%;
+    width: 33%;
+}
+#songSix{
+    background-color: #fec5e5;
+}
+
